@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: #000;
+}
+h2{
+    color: #fff;
+    text-align: center;
+    margin: 20px;
+}
+.allbranch{
+    /* border: 1px solid white; */
+    margin: 0 auto  !important;
+    height: 400px;
+}
+.frow{
+    width: 25%;
+    height: 225px;
+    margin-left: 65px;
+    margin-top: 25px;
+    float: left;
+    cursor: pointer;
+}
+.frow img{
+    height: 85%;
+    width: 100%;
+}
+.frow h3{
+    color: blue;
+    text-align: center;
+     background-color: #000;
+   
+}
+#cse{
+    background-color: #000;
+   
+}
+#civil{
+    background-color:#000;
+    
+}
+#Machanical{
+    background-color: #000;
+}
+
+#Electrical{
+    background-color: #000;
+    
+}
+#ec{
+   background-color: #000;
+}
+#Aerospace{
+   background-color: #000;
+}
+.frow:hover{
+    box-shadow:0 0 30px 0px blue;
+    background: rgba( 0, 0,266, .8);
+	color: white;
+}
+
+
+
+

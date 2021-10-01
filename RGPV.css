@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: #000;
+}
+h2{
+    color: #fff;
+    text-align: center;
+    margin: 20px;
+}
+.allcourse{
+    /* border: 1px solid white; */
+  
+    height: 400px;
+}
+.frow{
+    width: 25%;
+    height: 225px;
+    margin-left: 65px;
+    margin-top: 25px;
+    float: left;
+    cursor: pointer;
+}
+.frow img{
+    height: 85%;
+    width: 100%;
+}
+.frow h3{
+    color: blue;
+    text-align: center;
+
+}
+#btech{
+    background-color: #000;
+   
+}
+#bpharma{
+    background-color:#000;
+    
+}
+#mtech{
+    background-color: #000;
+}
+
+#mba{
+    background-color: #000;
+    
+}
+#phd{
+   background-color: #000;
+}
+#diploma{
+   background-color: #000;
+}
+.frow:hover{
+    box-shadow:0 0 30px 0px blue;
+    background: rgba( 0, 0,266, .8);
+	color: white;
+}
+
+
+
